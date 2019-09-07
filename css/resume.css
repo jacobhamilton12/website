@@ -96,7 +96,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #500000;
 }
 
 @media (min-width: 992px) {
@@ -196,5 +196,5 @@ a {
 a:hover,
 a:focus,
 a:active {
-  color: #824027;
+  color: #500000;
 }
